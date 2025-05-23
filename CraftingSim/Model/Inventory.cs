@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using System.IO;
+using Spectre.Console;
 
 
 namespace CraftingSim.Model
@@ -94,14 +95,14 @@ namespace CraftingSim.Model
         /// <param name="file">Path to the materials file</param>
         public void LoadMaterialsFromFile(string file)
         {
-            /*using (StreamReader sr = File.OpenText(file))
+            using (StreamReader sr = File.OpenText(file))
             {
                 while (sr.Peek() < 0)
                 {
                     string[] s = sr.ReadLine().Split(",");
                     materials.Add(new Material(int.Parse(s[0]), s[1]), int.Parse(s[2]));
                 }
-            }*/
+            }
         }
     }
 }

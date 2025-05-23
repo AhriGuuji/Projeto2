@@ -21,3 +21,4 @@ C:\Users\imlis\Documents\Universidade\LP1\Projeto2\CraftingSim\obj\Debug\net8.0\
 C:\Users\imlis\Documents\Universidade\LP1\Projeto2\CraftingSim\obj\Debug\net8.0\CraftingSim.pdb
 C:\Users\imlis\Documents\Universidade\LP1\Projeto2\CraftingSim\obj\Debug\net8.0\CraftingSim.genruntimeconfig.cache
 C:\Users\imlis\Documents\Universidade\LP1\Projeto2\CraftingSim\obj\Debug\net8.0\ref\CraftingSim.dll
+C:\Users\imlis\Documents\Universidade\LP1\Projeto2\CraftingSim\obj\Debug\net8.0\CraftingSim.sourcelink.json

@@ -33,15 +33,12 @@ namespace CraftingSim.Model
         /// <param name="recipeFiles">Array of file paths</param>
         public void LoadRecipesFromFile(string[] recipeFiles)
         {
-            Table tb = new Table();
-
-            tb.AddRow("Recipe", "Materials Required");
             foreach (string file in recipeFiles)
             {
                 StreamReader sr = File.OpenText(file);
                 string[] s = sr.ReadLine().Split(",");
 
-                tb.AddRow($"{s[0]}");
+                
             }
 
             //TODO Implement Me
