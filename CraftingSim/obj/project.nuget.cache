@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "pwZs/EY3jMU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\imlis\\Documents\\Universidade\\LP1\\Projeto2\\CraftingSim\\CraftingSim.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\imlis\\.nuget\\packages\\sixlabors.imagesharp\\3.1.7\\sixlabors.imagesharp.3.1.7.nupkg.sha512",
+    "C:\\Users\\imlis\\.nuget\\packages\\spectre.console\\0.50.0\\spectre.console.0.50.0.nupkg.sha512",
+    "C:\\Users\\imlis\\.nuget\\packages\\spectre.console.imagesharp\\0.50.0\\spectre.console.imagesharp.0.50.0.nupkg.sha512",
+    "C:\\Users\\imlis\\.nuget\\packages\\system.io.pipelines\\9.0.4\\system.io.pipelines.9.0.4.nupkg.sha512",
+    "C:\\Users\\imlis\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512",
+    "C:\\Users\\imlis\\.nuget\\packages\\system.text.encodings.web\\9.0.4\\system.text.encodings.web.9.0.4.nupkg.sha512",
+    "C:\\Users\\imlis\\.nuget\\packages\\system.text.json\\9.0.4\\system.text.json.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
